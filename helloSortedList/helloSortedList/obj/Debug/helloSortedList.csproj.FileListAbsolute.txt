@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\helloSortedList\helloSortedList\bin\Debug\helloSortedList.exe.config
+C:\Users\ASUS\source\repos\helloSortedList\helloSortedList\bin\Debug\helloSortedList.exe
+C:\Users\ASUS\source\repos\helloSortedList\helloSortedList\bin\Debug\helloSortedList.pdb
+C:\Users\ASUS\source\repos\helloSortedList\helloSortedList\obj\Debug\helloSortedList.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\helloSortedList\helloSortedList\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\source\repos\helloSortedList\helloSortedList\obj\Debug\App.g.cs
+C:\Users\ASUS\source\repos\helloSortedList\helloSortedList\obj\Debug\helloSortedList_MarkupCompile.cache
+C:\Users\ASUS\source\repos\helloSortedList\helloSortedList\obj\Debug\helloSortedList_MarkupCompile.lref
+C:\Users\ASUS\source\repos\helloSortedList\helloSortedList\obj\Debug\MainWindow.baml
+C:\Users\ASUS\source\repos\helloSortedList\helloSortedList\obj\Debug\helloSortedList.g.resources
+C:\Users\ASUS\source\repos\helloSortedList\helloSortedList\obj\Debug\helloSortedList.Properties.Resources.resources
+C:\Users\ASUS\source\repos\helloSortedList\helloSortedList\obj\Debug\helloSortedList.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\helloSortedList\helloSortedList\obj\Debug\helloSortedList.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\helloSortedList\helloSortedList\obj\Debug\helloSortedList.exe
+C:\Users\ASUS\source\repos\helloSortedList\helloSortedList\obj\Debug\helloSortedList.pdb
